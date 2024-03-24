@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebitse&label=Profile%20views&color=0e75b6&style=flat" alt="sebitse" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **SpringBoot**
 
