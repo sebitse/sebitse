@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **life**
 
-- 📫 How to reach me **www.linkedin.com/in/sebastian-tonu-831a09145/**
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/sebastian-tonu-831a09145/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
