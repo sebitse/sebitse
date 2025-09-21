@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebitse&label=Profile%20views&color=0e75b6&style=flat" alt="sebitse" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **LLM**
 
-- 👯 I’m looking to collaborate on **SpringBoot**
+- 👯 I’m looking to collaborate on **LLM**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **NLP pipelines**
 
-- 💬 Ask me about **life**
+- 💬 Ask me about **coffee**
 
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/sebastian-tonu-831a09145/)
 
